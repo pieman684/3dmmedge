@@ -1,0 +1,39 @@
+body, p, h1, h2, h3, h4, h5, h6, form{
+    color: white;
+}
+
+#container{
+    width: 900px;
+    height: 300px;
+    margin: 1em auto;
+    background: url(background_new.png);
+    background-size: cover;
+}
+
+#wrap{
+    padding-bottom: 20px;
+}
+
+#main{
+    background-color: cadetblue;
+    width: 692px;
+    margin-left: 13em;
+    height: 560px;
+}
+
+#main p{
+    padding: 1em;
+}
+
+#container #nav{
+    margin-bottom: 20px;
+    height: 560px;
+    background-color: grey;
+    width: 200px;
+    float: left;
+}
+
+#nav p, h1{
+    padding: 20px;
+}
+
