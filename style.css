@@ -22,7 +22,7 @@ body{
 
 @font-face {
     font-family: Rebirth_Ultra;
-    src: url(font/Rebirth\ Ultra.ttf);
+    src: url("font/Rebirth Ultra.ttf");
 }
 
 
@@ -67,3 +67,4 @@ ul{
     margin-top: 0px;
     height: 31px;
 }
+
