@@ -1,6 +1,7 @@
 body, p, h1, h2, h3, h4, h5, h6, form{
     color: rgb(63, 117, 171);
     font-family: Arial, Helvetica, sans-serif;
+    margin: 1em;
 }
 
 body{
@@ -25,6 +26,10 @@ body{
     src: url(font/Rebirth\ Ultra.ttf);
 }
 
+iframe{
+    margin: 1em;
+    border-style: none;
+}
 
 #main{
     background-color: rgb(255, 255, 255);
