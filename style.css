@@ -82,11 +82,15 @@ ul{
 
 
 ul li a{
-    transition: filter, 0.2s;
+    transition: filter, 0.1s;
 }
 
 ul li a:hover{
     filter: brightness(150%);
+}
+
+ul li a:active{
+    filter: brightness(90%);
 }
 
 table{
