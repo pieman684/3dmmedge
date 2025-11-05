@@ -6,6 +6,7 @@ body, p, h1, h2, h3, h4, h5, h6, form{
 
 body{
     margin: 0px;
+    background-color: #F9F9F9;
 }
 
 #container{
@@ -32,7 +33,7 @@ iframe{
 }
 
 #main{
-    background-color: rgb(255, 255, 255);
+    background-color: #F9F9F9;
     width: 900px;
     margin-top: 0px ;
     height: 600px;
