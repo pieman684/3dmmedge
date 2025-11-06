@@ -1,0 +1,12 @@
+body, img{
+    text-align: center;
+}
+
+#nextprev{
+    display: flex;
+    justify-content: center;
+}
+
+#nextprev p{
+    padding: 1em;
+}
