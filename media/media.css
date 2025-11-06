@@ -2,11 +2,30 @@ body, img{
     text-align: center;
 }
 
-#nextprev{
-    display: flex;
-    justify-content: center;
+@font-face {
+    font-family: Rebirth_Ultra;
+    src: url(../font/Rebirth\ Ultra.ttf);
 }
 
-#nextprev p{
-    padding: 1em;
+#contain p{
+    margin: 1em auto;
+    padding: 1em auto;
 }
+
+#next {
+    float: right;
+    margin-right: 10em;
+    font-size: 30px;
+}
+
+
+#prev{
+    float: left;
+    margin-left: 10em;
+    font-size: 30px;
+}
+
+#next, #prev{
+    font-family: Rebirth_Ultra;
+}
+
