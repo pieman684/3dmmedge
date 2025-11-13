@@ -74,7 +74,7 @@ ul{
     height: 31px;
 }
 
-#movies{
+#movies, #othmovies{
     margin: 1em auto;
     width: 800px;
     overflow: auto;
