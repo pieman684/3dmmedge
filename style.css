@@ -83,7 +83,7 @@ ul{
 
 
 ul li a{
-    transition: filter, 0.1s;
+    transition: filter, 1s;
 }
 
 ul li a:hover{
